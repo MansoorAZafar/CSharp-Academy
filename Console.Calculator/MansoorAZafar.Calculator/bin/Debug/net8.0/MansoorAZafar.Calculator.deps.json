@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MansoorAZafar.Calculator/1.0.0": {
+        "dependencies": {
+          "MansoorAZafar.CalculatorLibrary": "1.0.0"
+        },
+        "runtime": {
+          "MansoorAZafar.Calculator.dll": {}
+        }
+      },
+      "MansoorAZafar.CalculatorLibrary/1.0.0": {
+        "runtime": {
+          "MansoorAZafar.CalculatorLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MansoorAZafar.Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MansoorAZafar.CalculatorLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

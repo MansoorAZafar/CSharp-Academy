@@ -1,0 +1,22 @@
+{
+  "Operations": [
+    {
+      "Operand1": 10.0,
+      "Operand2": 10.0,
+      "Operation": "Subtract",
+      "Result": 0.0
+    },
+    {
+      "Operand1": 10.0,
+      "Operand2": 0.0,
+      "Operation": "sin",
+      "Result": -0.5440211108893698
+    },
+    {
+      "Operand1": -0.5440211108893698,
+      "Operand2": 0.0,
+      "Operation": "Square Root",
+      "Result": "NaN"
+    }
+  ]
+}
