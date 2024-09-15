@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\imsor\\Documents\\C#\\HabitLogger.MansoorAZafar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF9420C-CB24-4975-9C36-FDB1A5D3AAAA}|Solution Items{2FF9420C-CB24-4975-9C36-FDB1A5D3AAAA}|C:\\Users\\imsor\\Documents\\C#\\HabitLogger.MansoorAZafar\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{2FF9420C-CB24-4975-9C36-FDB1A5D3AAAA}|Solution Items{2FF9420C-CB24-4975-9C36-FDB1A5D3AAAA}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE34455-2825-4497-97F1-5A60359305CD}|..\\HabitLoggerLibrary.MansoorAZafar\\HabitLoggerLibrary.MansoorAZafar.csproj|c:\\users\\imsor\\documents\\c#\\habitloggerlibrary.mansoorazafar\\controllers\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4924F9-C67F-4263-9B77-7A3AC2E0BEC8}|HabitLogger.MansoorAZafar.csproj|c:\\users\\imsor\\documents\\c#\\habitlogger.mansoorazafar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4924F9-C67F-4263-9B77-7A3AC2E0BEC8}|HabitLogger.MansoorAZafar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE34455-2825-4497-97F1-5A60359305CD}|..\\HabitLoggerLibrary.MansoorAZafar\\HabitLoggerLibrary.MansoorAZafar.csproj|c:\\users\\imsor\\documents\\c#\\habitloggerlibrary.mansoorazafar\\models\\habits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE34455-2825-4497-97F1-5A60359305CD}|..\\HabitLoggerLibrary.MansoorAZafar\\HabitLoggerLibrary.MansoorAZafar.csproj|c:\\users\\imsor\\documents\\c#\\habitloggerlibrary.mansoorazafar\\controllers\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE34455-2825-4497-97F1-5A60359305CD}|..\\HabitLoggerLibrary.MansoorAZafar\\HabitLoggerLibrary.MansoorAZafar.csproj|c:\\users\\imsor\\documents\\c#\\habitloggerlibrary.mansoorazafar\\habitmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE34455-2825-4497-97F1-5A60359305CD}|..\\HabitLoggerLibrary.MansoorAZafar\\HabitLoggerLibrary.MansoorAZafar.csproj|c:\\users\\imsor\\documents\\c#\\habitloggerlibrary.mansoorazafar\\controllers\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\imsor\\Documents\\C#\\HabitLogger.MansoorAZafar\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\imsor\\Documents\\C#\\HabitLogger.MansoorAZafar\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-16T14:00:24.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\imsor\\Documents\\C#\\HabitLoggerLibrary.MansoorAZafar\\Controllers\\Utilities.cs",
+              "RelativeDocumentMoniker": "..\\HabitLoggerLibrary.MansoorAZafar\\Controllers\\Utilities.cs",
+              "ToolTip": "C:\\Users\\imsor\\Documents\\C#\\HabitLoggerLibrary.MansoorAZafar\\Controllers\\Utilities.cs",
+              "RelativeToolTip": "..\\HabitLoggerLibrary.MansoorAZafar\\Controllers\\Utilities.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:51:24.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reports.cs",
+              "DocumentMoniker": "C:\\Users\\imsor\\Documents\\C#\\HabitLoggerLibrary.MansoorAZafar\\Controllers\\Reports.cs",
+              "RelativeDocumentMoniker": "..\\HabitLoggerLibrary.MansoorAZafar\\Controllers\\Reports.cs",
+              "ToolTip": "C:\\Users\\imsor\\Documents\\C#\\HabitLoggerLibrary.MansoorAZafar\\Controllers\\Reports.cs",
+              "RelativeToolTip": "..\\HabitLoggerLibrary.MansoorAZafar\\Controllers\\Reports.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAUwGcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:47:39.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Habits.cs",
+              "DocumentMoniker": "C:\\Users\\imsor\\Documents\\C#\\HabitLoggerLibrary.MansoorAZafar\\Models\\Habits.cs",
+              "RelativeDocumentMoniker": "..\\HabitLoggerLibrary.MansoorAZafar\\Models\\Habits.cs",
+              "ToolTip": "C:\\Users\\imsor\\Documents\\C#\\HabitLoggerLibrary.MansoorAZafar\\Models\\Habits.cs",
+              "RelativeToolTip": "..\\HabitLoggerLibrary.MansoorAZafar\\Models\\Habits.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA0wB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:48:16.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\imsor\\Documents\\C#\\HabitLoggerLibrary.MansoorAZafar\\Controllers\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "..\\HabitLoggerLibrary.MansoorAZafar\\Controllers\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\imsor\\Documents\\C#\\HabitLoggerLibrary.MansoorAZafar\\Controllers\\DatabaseManager.cs",
+              "RelativeToolTip": "..\\HabitLoggerLibrary.MansoorAZafar\\Controllers\\DatabaseManager.cs",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAowOUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:50:24.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HabitManager.cs",
+              "DocumentMoniker": "C:\\Users\\imsor\\Documents\\C#\\HabitLoggerLibrary.MansoorAZafar\\HabitManager.cs",
+              "RelativeDocumentMoniker": "..\\HabitLoggerLibrary.MansoorAZafar\\HabitManager.cs",
+              "ToolTip": "C:\\Users\\imsor\\Documents\\C#\\HabitLoggerLibrary.MansoorAZafar\\HabitManager.cs",
+              "RelativeToolTip": "..\\HabitLoggerLibrary.MansoorAZafar\\HabitManager.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAwwKgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:47:11.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\imsor\\Documents\\C#\\HabitLogger.MansoorAZafar\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\imsor\\Documents\\C#\\HabitLogger.MansoorAZafar\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwDYAAACwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T10:58:38.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

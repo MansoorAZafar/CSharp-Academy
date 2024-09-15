@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "DIivnRc0i0E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\imsor\\Documents\\C#\\CodeReviews.Console.HabitTracker\\HabitLoggerLibrary.MansoorAZafar\\HabitLoggerLibrary.MansoorAZafar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\imsor\\.nuget\\packages\\consoletableext\\3.3.0\\consoletableext.3.3.0.nupkg.sha512",
+    "C:\\Users\\imsor\\.nuget\\packages\\microsoft.data.sqlite\\8.0.8\\microsoft.data.sqlite.8.0.8.nupkg.sha512",
+    "C:\\Users\\imsor\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.8\\microsoft.data.sqlite.core.8.0.8.nupkg.sha512",
+    "C:\\Users\\imsor\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\imsor\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\imsor\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\imsor\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\imsor\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
