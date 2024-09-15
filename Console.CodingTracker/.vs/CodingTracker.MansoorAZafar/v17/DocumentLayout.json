@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\imsor\\Documents\\C#\\CodeReviews.Console.CodingTracker\\CodingTracker.MansoorAZafar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B94BC9-F3EA-4784-943F-FC996BDC13F6}|CodingTrackerLibrary\\CodingTrackerLibrary.csproj|c:\\users\\imsor\\documents\\c#\\codereviews.console.codingtracker\\codingtracker.mansoorazafar\\codingtrackerlibrary\\controllers\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B94BC9-F3EA-4784-943F-FC996BDC13F6}|CodingTrackerLibrary\\CodingTrackerLibrary.csproj|solutionrelative:codingtrackerlibrary\\controllers\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B94BC9-F3EA-4784-943F-FC996BDC13F6}|CodingTrackerLibrary\\CodingTrackerLibrary.csproj|c:\\users\\imsor\\documents\\c#\\codereviews.console.codingtracker\\codingtracker.mansoorazafar\\codingtrackerlibrary\\controllers\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B94BC9-F3EA-4784-943F-FC996BDC13F6}|CodingTrackerLibrary\\CodingTrackerLibrary.csproj|solutionrelative:codingtrackerlibrary\\controllers\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B94BC9-F3EA-4784-943F-FC996BDC13F6}|CodingTrackerLibrary\\CodingTrackerLibrary.csproj|c:\\users\\imsor\\documents\\c#\\codereviews.console.codingtracker\\codingtracker.mansoorazafar\\codingtrackerlibrary\\controllers\\codinghabitmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B94BC9-F3EA-4784-943F-FC996BDC13F6}|CodingTrackerLibrary\\CodingTrackerLibrary.csproj|solutionrelative:codingtrackerlibrary\\controllers\\codinghabitmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B94BC9-F3EA-4784-943F-FC996BDC13F6}|CodingTrackerLibrary\\CodingTrackerLibrary.csproj|c:\\users\\imsor\\documents\\c#\\codereviews.console.codingtracker\\codingtracker.mansoorazafar\\codingtrackerlibrary\\controllers\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B94BC9-F3EA-4784-943F-FC996BDC13F6}|CodingTrackerLibrary\\CodingTrackerLibrary.csproj|solutionrelative:codingtrackerlibrary\\controllers\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B94BC9-F3EA-4784-943F-FC996BDC13F6}|CodingTrackerLibrary\\CodingTrackerLibrary.csproj|c:\\users\\imsor\\documents\\c#\\codereviews.console.codingtracker\\codingtracker.mansoorazafar\\codingtrackerlibrary\\models\\codingsessions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B94BC9-F3EA-4784-943F-FC996BDC13F6}|CodingTrackerLibrary\\CodingTrackerLibrary.csproj|solutionrelative:codingtrackerlibrary\\models\\codingsessions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B94BC9-F3EA-4784-943F-FC996BDC13F6}|CodingTrackerLibrary\\CodingTrackerLibrary.csproj|c:\\users\\imsor\\documents\\c#\\codereviews.console.codingtracker\\codingtracker.mansoorazafar\\codingtrackerlibrary\\codingtracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B94BC9-F3EA-4784-943F-FC996BDC13F6}|CodingTrackerLibrary\\CodingTrackerLibrary.csproj|solutionrelative:codingtrackerlibrary\\codingtracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B94BC9-F3EA-4784-943F-FC996BDC13F6}|CodingTrackerLibrary\\CodingTrackerLibrary.csproj|c:\\users\\imsor\\documents\\c#\\codereviews.console.codingtracker\\codingtracker.mansoorazafar\\codingtrackerlibrary\\views\\dataviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B94BC9-F3EA-4784-943F-FC996BDC13F6}|CodingTrackerLibrary\\CodingTrackerLibrary.csproj|solutionrelative:codingtrackerlibrary\\views\\dataviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B94BC9-F3EA-4784-943F-FC996BDC13F6}|CodingTrackerLibrary\\CodingTrackerLibrary.csproj|c:\\users\\imsor\\documents\\c#\\codereviews.console.codingtracker\\codingtracker.mansoorazafar\\codingtrackerlibrary\\models\\menuselections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B94BC9-F3EA-4784-943F-FC996BDC13F6}|CodingTrackerLibrary\\CodingTrackerLibrary.csproj|solutionrelative:codingtrackerlibrary\\models\\menuselections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF5531E-6C2D-410D-8A43-D77FADAFBC57}|CodingTrackerProgram\\CodingTrackerProgram.csproj|c:\\users\\imsor\\documents\\c#\\codereviews.console.codingtracker\\codingtracker.mansoorazafar\\codingtrackerprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF5531E-6C2D-410D-8A43-D77FADAFBC57}|CodingTrackerProgram\\CodingTrackerProgram.csproj|solutionrelative:codingtrackerprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reports.cs",
+              "DocumentMoniker": "C:\\Users\\imsor\\Documents\\C#\\CodeReviews.Console.CodingTracker\\CodingTracker.MansoorAZafar\\CodingTrackerLibrary\\Controllers\\Reports.cs",
+              "RelativeDocumentMoniker": "CodingTrackerLibrary\\Controllers\\Reports.cs",
+              "ToolTip": "C:\\Users\\imsor\\Documents\\C#\\CodeReviews.Console.CodingTracker\\CodingTracker.MansoorAZafar\\CodingTrackerLibrary\\Controllers\\Reports.cs",
+              "RelativeToolTip": "CodingTrackerLibrary\\Controllers\\Reports.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAwwI4AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:18:59.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuSelections.cs",
+              "DocumentMoniker": "C:\\Users\\imsor\\Documents\\C#\\CodeReviews.Console.CodingTracker\\CodingTracker.MansoorAZafar\\CodingTrackerLibrary\\Models\\MenuSelections.cs",
+              "RelativeDocumentMoniker": "CodingTrackerLibrary\\Models\\MenuSelections.cs",
+              "ToolTip": "C:\\Users\\imsor\\Documents\\C#\\CodeReviews.Console.CodingTracker\\CodingTracker.MansoorAZafar\\CodingTrackerLibrary\\Models\\MenuSelections.cs",
+              "RelativeToolTip": "CodingTrackerLibrary\\Models\\MenuSelections.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:21:34.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataViewer.cs",
+              "DocumentMoniker": "C:\\Users\\imsor\\Documents\\C#\\CodeReviews.Console.CodingTracker\\CodingTracker.MansoorAZafar\\CodingTrackerLibrary\\Views\\DataViewer.cs",
+              "RelativeDocumentMoniker": "CodingTrackerLibrary\\Views\\DataViewer.cs",
+              "ToolTip": "C:\\Users\\imsor\\Documents\\C#\\CodeReviews.Console.CodingTracker\\CodingTracker.MansoorAZafar\\CodingTrackerLibrary\\Views\\DataViewer.cs",
+              "RelativeToolTip": "CodingTrackerLibrary\\Views\\DataViewer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:24:47.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CodingSessions.cs",
+              "DocumentMoniker": "C:\\Users\\imsor\\Documents\\C#\\CodeReviews.Console.CodingTracker\\CodingTracker.MansoorAZafar\\CodingTrackerLibrary\\Models\\CodingSessions.cs",
+              "RelativeDocumentMoniker": "CodingTrackerLibrary\\Models\\CodingSessions.cs",
+              "ToolTip": "C:\\Users\\imsor\\Documents\\C#\\CodeReviews.Console.CodingTracker\\CodingTracker.MansoorAZafar\\CodingTrackerLibrary\\Models\\CodingSessions.cs",
+              "RelativeToolTip": "CodingTrackerLibrary\\Models\\CodingSessions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:24:21.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\imsor\\Documents\\C#\\CodeReviews.Console.CodingTracker\\CodingTracker.MansoorAZafar\\CodingTrackerLibrary\\Controllers\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "CodingTrackerLibrary\\Controllers\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\imsor\\Documents\\C#\\CodeReviews.Console.CodingTracker\\CodingTracker.MansoorAZafar\\CodingTrackerLibrary\\Controllers\\DatabaseManager.cs",
+              "RelativeToolTip": "CodingTrackerLibrary\\Controllers\\DatabaseManager.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwDEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:15:14.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\imsor\\Documents\\C#\\CodeReviews.Console.CodingTracker\\CodingTracker.MansoorAZafar\\CodingTrackerLibrary\\Controllers\\Utilities.cs",
+              "RelativeDocumentMoniker": "CodingTrackerLibrary\\Controllers\\Utilities.cs",
+              "ToolTip": "C:\\Users\\imsor\\Documents\\C#\\CodeReviews.Console.CodingTracker\\CodingTracker.MansoorAZafar\\CodingTrackerLibrary\\Controllers\\Utilities.cs",
+              "RelativeToolTip": "CodingTrackerLibrary\\Controllers\\Utilities.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:15:40.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CodingHabitManager.cs",
+              "DocumentMoniker": "C:\\Users\\imsor\\Documents\\C#\\CodeReviews.Console.CodingTracker\\CodingTracker.MansoorAZafar\\CodingTrackerLibrary\\Controllers\\CodingHabitManager.cs",
+              "RelativeDocumentMoniker": "CodingTrackerLibrary\\Controllers\\CodingHabitManager.cs",
+              "ToolTip": "C:\\Users\\imsor\\Documents\\C#\\CodeReviews.Console.CodingTracker\\CodingTracker.MansoorAZafar\\CodingTrackerLibrary\\Controllers\\CodingHabitManager.cs",
+              "RelativeToolTip": "CodingTrackerLibrary\\Controllers\\CodingHabitManager.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAnwIkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:32:03.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CodingTracker.cs",
+              "DocumentMoniker": "C:\\Users\\imsor\\Documents\\C#\\CodeReviews.Console.CodingTracker\\CodingTracker.MansoorAZafar\\CodingTrackerLibrary\\CodingTracker.cs",
+              "RelativeDocumentMoniker": "CodingTrackerLibrary\\CodingTracker.cs",
+              "ToolTip": "C:\\Users\\imsor\\Documents\\C#\\CodeReviews.Console.CodingTracker\\CodingTracker.MansoorAZafar\\CodingTrackerLibrary\\CodingTracker.cs",
+              "RelativeToolTip": "CodingTrackerLibrary\\CodingTracker.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwBIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:31:10.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\imsor\\Documents\\C#\\CodeReviews.Console.CodingTracker\\CodingTracker.MansoorAZafar\\CodingTrackerProgram\\Program.cs",
+              "RelativeDocumentMoniker": "CodingTrackerProgram\\Program.cs",
+              "ToolTip": "C:\\Users\\imsor\\Documents\\C#\\CodeReviews.Console.CodingTracker\\CodingTracker.MansoorAZafar\\CodingTrackerProgram\\Program.cs",
+              "RelativeToolTip": "CodingTrackerProgram\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:30:43.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
