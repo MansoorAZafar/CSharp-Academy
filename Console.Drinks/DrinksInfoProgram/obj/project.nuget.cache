@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6mkgHmChnIQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\imsor\\Documents\\C#\\CodeReviews.Console.Drinks\\DrinksInfo.MansoorAZafar\\DrinksInfoProgram\\DrinksInfoProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\imsor\\.nuget\\packages\\consoletableext\\3.3.0\\consoletableext.3.3.0.nupkg.sha512",
+    "C:\\Users\\imsor\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\imsor\\.nuget\\packages\\restsharp\\112.0.0\\restsharp.112.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
