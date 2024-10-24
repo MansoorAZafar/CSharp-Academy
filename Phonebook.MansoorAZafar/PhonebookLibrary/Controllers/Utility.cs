@@ -1,6 +1,9 @@
-﻿using PhonebookLibrary.Models;
+﻿using PhonebookLibrary.Databases;
+using PhonebookLibrary.Models;
 using Spectre.Console;
+using System.Text.RegularExpressions;
 namespace PhonebookLibrary.Controllers;
+
 
 internal static class Utility
 {
@@ -35,9 +38,7 @@ internal static class Utility
             new TextPrompt<string>("What is the Contact name\n> ")
         );
 
-        string email = AnsiConsole.Prompt<string>(
-            new TextPrompt<string>("What is the Contact email\n> ")
-        );
+        string email = GetEmail();
 
         string phoneNumber = GetPhoneNumber();
 
@@ -47,12 +48,25 @@ internal static class Utility
     private static string GetPhoneNumber()
     {
         string? res;
-        System.Console.Write("Please Enter your Phone number\n> ");
-        
+        System.Console.Write("Please Enter your Phone number without any spaces or -'s\n(ex. 6258889595)\n> ");
+
         while((bool)(res = System.Console.ReadLine())?.Any(ch => Char.IsLetter(ch)) 
-            || res.Length < 10)
+            || res.Length != 10)
             System.Console.Write("Please enter a valid Phone Number\n> ");
         
+        return res ?? "N/A";
+    }
+
+    private static string GetEmail()
+    {
+        string? res;
+        System.Console.Write("What is the Contact email\n> ");
+        const string pattern = @"@.+\.+.";
+        Regex regex = new(pattern);
+
+        while (!regex.IsMatch(res = System.Console.ReadLine() ?? "N/A"))
+            System.Console.Write("Invalid Email Address\nEnsure this format [username]@[domain].[top-level domain]\n> ");
+
         return res ?? "N/A";
     }
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhonebookProgram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fe71336649cdb950bad989b9cdb1944d03f7423")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0621b643a48c2e56eabe97222fd826516f5633c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhonebookProgram")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhonebookProgram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
