@@ -1,0 +1,12 @@
+C:\Users\imsor\Documents\C#\SportResultNotifier.MansoorAZafar\WebScraperLib\bin\Debug\net8.0\WebScraperLib.deps.json
+C:\Users\imsor\Documents\C#\SportResultNotifier.MansoorAZafar\WebScraperLib\bin\Debug\net8.0\WebScraperLib.dll
+C:\Users\imsor\Documents\C#\SportResultNotifier.MansoorAZafar\WebScraperLib\bin\Debug\net8.0\WebScraperLib.pdb
+C:\Users\imsor\Documents\C#\SportResultNotifier.MansoorAZafar\WebScraperLib\obj\Debug\net8.0\WebScraperLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imsor\Documents\C#\SportResultNotifier.MansoorAZafar\WebScraperLib\obj\Debug\net8.0\WebScraperLib.AssemblyInfoInputs.cache
+C:\Users\imsor\Documents\C#\SportResultNotifier.MansoorAZafar\WebScraperLib\obj\Debug\net8.0\WebScraperLib.AssemblyInfo.cs
+C:\Users\imsor\Documents\C#\SportResultNotifier.MansoorAZafar\WebScraperLib\obj\Debug\net8.0\WebScraperLib.csproj.CoreCompileInputs.cache
+C:\Users\imsor\Documents\C#\SportResultNotifier.MansoorAZafar\WebScraperLib\obj\Debug\net8.0\WebScraperLib.dll
+C:\Users\imsor\Documents\C#\SportResultNotifier.MansoorAZafar\WebScraperLib\obj\Debug\net8.0\refint\WebScraperLib.dll
+C:\Users\imsor\Documents\C#\SportResultNotifier.MansoorAZafar\WebScraperLib\obj\Debug\net8.0\WebScraperLib.pdb
+C:\Users\imsor\Documents\C#\SportResultNotifier.MansoorAZafar\WebScraperLib\obj\Debug\net8.0\ref\WebScraperLib.dll
+C:\Users\imsor\Documents\C#\SportResultNotifier.MansoorAZafar\WebScraperLib\obj\Debug\net8.0\WebScraperLib.csproj.AssemblyReference.cache

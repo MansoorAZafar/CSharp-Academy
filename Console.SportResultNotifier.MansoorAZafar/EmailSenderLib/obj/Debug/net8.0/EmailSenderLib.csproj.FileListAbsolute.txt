@@ -1,0 +1,11 @@
+C:\Users\imsor\Documents\C#\SportResultNotifier.MansoorAZafar\EmailSenderLib\bin\Debug\net8.0\EmailSenderLib.deps.json
+C:\Users\imsor\Documents\C#\SportResultNotifier.MansoorAZafar\EmailSenderLib\bin\Debug\net8.0\EmailSenderLib.dll
+C:\Users\imsor\Documents\C#\SportResultNotifier.MansoorAZafar\EmailSenderLib\bin\Debug\net8.0\EmailSenderLib.pdb
+C:\Users\imsor\Documents\C#\SportResultNotifier.MansoorAZafar\EmailSenderLib\obj\Debug\net8.0\EmailSenderLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imsor\Documents\C#\SportResultNotifier.MansoorAZafar\EmailSenderLib\obj\Debug\net8.0\EmailSenderLib.AssemblyInfoInputs.cache
+C:\Users\imsor\Documents\C#\SportResultNotifier.MansoorAZafar\EmailSenderLib\obj\Debug\net8.0\EmailSenderLib.AssemblyInfo.cs
+C:\Users\imsor\Documents\C#\SportResultNotifier.MansoorAZafar\EmailSenderLib\obj\Debug\net8.0\EmailSenderLib.csproj.CoreCompileInputs.cache
+C:\Users\imsor\Documents\C#\SportResultNotifier.MansoorAZafar\EmailSenderLib\obj\Debug\net8.0\EmailSenderLib.dll
+C:\Users\imsor\Documents\C#\SportResultNotifier.MansoorAZafar\EmailSenderLib\obj\Debug\net8.0\refint\EmailSenderLib.dll
+C:\Users\imsor\Documents\C#\SportResultNotifier.MansoorAZafar\EmailSenderLib\obj\Debug\net8.0\EmailSenderLib.pdb
+C:\Users\imsor\Documents\C#\SportResultNotifier.MansoorAZafar\EmailSenderLib\obj\Debug\net8.0\ref\EmailSenderLib.dll

@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60227CA7-17C2-44AD-83D4-F39FB6AF2952}|SportNotifierApplication\\SportNotifierApplication.csproj|c:\\users\\imsor\\documents\\c#\\sportresultnotifier.mansoorazafar\\sportnotifierapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60227CA7-17C2-44AD-83D4-F39FB6AF2952}|SportNotifierApplication\\SportNotifierApplication.csproj|solutionrelative:sportnotifierapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49026F61-1BB4-4512-A157-17A6CCC84044}|EmailSenderLib\\EmailSenderLib.csproj|c:\\users\\imsor\\documents\\c#\\sportresultnotifier.mansoorazafar\\emailsenderlib\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49026F61-1BB4-4512-A157-17A6CCC84044}|EmailSenderLib\\EmailSenderLib.csproj|solutionrelative:emailsenderlib\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60227CA7-17C2-44AD-83D4-F39FB6AF2952}|SportNotifierApplication\\SportNotifierApplication.csproj|c:\\users\\imsor\\documents\\c#\\sportresultnotifier.mansoorazafar\\sportnotifierapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60227CA7-17C2-44AD-83D4-F39FB6AF2952}|SportNotifierApplication\\SportNotifierApplication.csproj|solutionrelative:sportnotifierapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\SportNotifierApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "SportNotifierApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\SportNotifierApplication\\appsettings.json",
+              "RelativeToolTip": "SportNotifierApplication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T15:57:46.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\EmailSenderLib\\EmailSender.cs",
+              "RelativeDocumentMoniker": "EmailSenderLib\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\EmailSenderLib\\EmailSender.cs",
+              "RelativeToolTip": "EmailSenderLib\\EmailSender.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwFEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:56:38.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\SportNotifierApplication\\Program.cs",
+              "RelativeDocumentMoniker": "SportNotifierApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\SportNotifierApplication\\Program.cs",
+              "RelativeToolTip": "SportNotifierApplication\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAcwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:15:03.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
