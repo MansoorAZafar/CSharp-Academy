@@ -10,3 +10,4 @@ C:\Users\imsor\Desktop\CSharp-Academy\Console.ExcelReader.MansoorAZafar\ExcelRea
 C:\Users\imsor\Desktop\CSharp-Academy\Console.ExcelReader.MansoorAZafar\ExcelReaderLib\obj\Debug\net8.0\refint\ExcelReaderLib.dll
 C:\Users\imsor\Desktop\CSharp-Academy\Console.ExcelReader.MansoorAZafar\ExcelReaderLib\obj\Debug\net8.0\ExcelReaderLib.pdb
 C:\Users\imsor\Desktop\CSharp-Academy\Console.ExcelReader.MansoorAZafar\ExcelReaderLib\obj\Debug\net8.0\ref\ExcelReaderLib.dll
+C:\Users\imsor\Desktop\CSharp-Academy\Console.ExcelReader.MansoorAZafar\ExcelReaderLib\obj\Debug\net8.0\ExcelReaderLib.csproj.AssemblyReference.cache
