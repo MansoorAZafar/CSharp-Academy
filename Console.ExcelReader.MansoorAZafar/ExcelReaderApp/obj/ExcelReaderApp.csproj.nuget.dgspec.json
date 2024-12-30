@@ -1,0 +1,172 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\imsor\\Desktop\\CSharp-Academy\\Console.ExcelReader.MansoorAZafar\\ExcelReaderApp\\ExcelReaderApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\imsor\\Desktop\\CSharp-Academy\\Console.ExcelReader.MansoorAZafar\\ExcelReaderApp\\ExcelReaderApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\imsor\\Desktop\\CSharp-Academy\\Console.ExcelReader.MansoorAZafar\\ExcelReaderApp\\ExcelReaderApp.csproj",
+        "projectName": "ExcelReaderApp",
+        "projectPath": "C:\\Users\\imsor\\Desktop\\CSharp-Academy\\Console.ExcelReader.MansoorAZafar\\ExcelReaderApp\\ExcelReaderApp.csproj",
+        "packagesPath": "C:\\Users\\imsor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\imsor\\Desktop\\CSharp-Academy\\Console.ExcelReader.MansoorAZafar\\ExcelReaderApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\imsor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\imsor\\Desktop\\CSharp-Academy\\Console.ExcelReader.MansoorAZafar\\ExcelReaderLib\\ExcelReaderLib.csproj": {
+                "projectPath": "C:\\Users\\imsor\\Desktop\\CSharp-Academy\\Console.ExcelReader.MansoorAZafar\\ExcelReaderLib\\ExcelReaderLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Spectre.Console": {
+              "target": "Package",
+              "version": "[0.49.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\imsor\\Desktop\\CSharp-Academy\\Console.ExcelReader.MansoorAZafar\\ExcelReaderLib\\ExcelReaderLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\imsor\\Desktop\\CSharp-Academy\\Console.ExcelReader.MansoorAZafar\\ExcelReaderLib\\ExcelReaderLib.csproj",
+        "projectName": "ExcelReaderLib",
+        "projectPath": "C:\\Users\\imsor\\Desktop\\CSharp-Academy\\Console.ExcelReader.MansoorAZafar\\ExcelReaderLib\\ExcelReaderLib.csproj",
+        "packagesPath": "C:\\Users\\imsor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\imsor\\Desktop\\CSharp-Academy\\Console.ExcelReader.MansoorAZafar\\ExcelReaderLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\imsor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.5.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

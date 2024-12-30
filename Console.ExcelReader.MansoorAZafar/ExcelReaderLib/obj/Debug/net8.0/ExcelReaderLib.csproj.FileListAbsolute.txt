@@ -1,0 +1,13 @@
+C:\Users\imsor\Desktop\CSharp-Academy\Console.ExcelReader.MansoorAZafar\ExcelReaderLib\bin\Debug\net8.0\ExcelReaderLib.deps.json
+C:\Users\imsor\Desktop\CSharp-Academy\Console.ExcelReader.MansoorAZafar\ExcelReaderLib\bin\Debug\net8.0\ExcelReaderLib.dll
+C:\Users\imsor\Desktop\CSharp-Academy\Console.ExcelReader.MansoorAZafar\ExcelReaderLib\bin\Debug\net8.0\ExcelReaderLib.pdb
+C:\Users\imsor\Desktop\CSharp-Academy\Console.ExcelReader.MansoorAZafar\ExcelReaderLib\obj\Debug\net8.0\ExcelReaderLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imsor\Desktop\CSharp-Academy\Console.ExcelReader.MansoorAZafar\ExcelReaderLib\obj\Debug\net8.0\ExcelReaderLib.AssemblyInfoInputs.cache
+C:\Users\imsor\Desktop\CSharp-Academy\Console.ExcelReader.MansoorAZafar\ExcelReaderLib\obj\Debug\net8.0\ExcelReaderLib.AssemblyInfo.cs
+C:\Users\imsor\Desktop\CSharp-Academy\Console.ExcelReader.MansoorAZafar\ExcelReaderLib\obj\Debug\net8.0\ExcelReaderLib.csproj.CoreCompileInputs.cache
+C:\Users\imsor\Desktop\CSharp-Academy\Console.ExcelReader.MansoorAZafar\ExcelReaderLib\obj\Debug\net8.0\ExcelReaderLib.sourcelink.json
+C:\Users\imsor\Desktop\CSharp-Academy\Console.ExcelReader.MansoorAZafar\ExcelReaderLib\obj\Debug\net8.0\ExcelReaderLib.dll
+C:\Users\imsor\Desktop\CSharp-Academy\Console.ExcelReader.MansoorAZafar\ExcelReaderLib\obj\Debug\net8.0\refint\ExcelReaderLib.dll
+C:\Users\imsor\Desktop\CSharp-Academy\Console.ExcelReader.MansoorAZafar\ExcelReaderLib\obj\Debug\net8.0\ExcelReaderLib.pdb
+C:\Users\imsor\Desktop\CSharp-Academy\Console.ExcelReader.MansoorAZafar\ExcelReaderLib\obj\Debug\net8.0\ref\ExcelReaderLib.dll
+C:\Users\imsor\Desktop\CSharp-Academy\Console.ExcelReader.MansoorAZafar\ExcelReaderLib\obj\Debug\net8.0\ExcelReaderLib.csproj.AssemblyReference.cache
