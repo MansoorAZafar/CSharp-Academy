@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExcelReaderApp/1.0.0": {
+        "dependencies": {
+          "ExcelReaderLib": "1.0.0"
+        },
+        "runtime": {
+          "ExcelReaderApp.dll": {}
+        }
+      },
+      "ExcelReaderLib/1.0.0": {
+        "runtime": {
+          "ExcelReaderLib.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExcelReaderApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExcelReaderLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
