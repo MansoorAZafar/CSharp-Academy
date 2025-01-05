@@ -79,11 +79,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\WebScraperLib\\WebScraperLib.csproj",
+      "projectUniqueName": "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\WebScraperLib\\WebScraperLib.csproj",
       "projectName": "WebScraperLib",
-      "projectPath": "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\WebScraperLib\\WebScraperLib.csproj",
+      "projectPath": "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\WebScraperLib\\WebScraperLib.csproj",
       "packagesPath": "C:\\Users\\imsor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\WebScraperLib\\obj\\",
+      "outputPath": "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\WebScraperLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\imsor\\AppData\\Roaming\\NuGet\\NuGet.Config",

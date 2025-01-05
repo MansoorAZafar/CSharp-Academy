@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DYXwKlzomyA=",
+  "dgSpecHash": "S4XAoF6TDKg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\SportNotifierApplication\\SportNotifierApplication.csproj",
+  "projectFilePath": "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\SportNotifierApplication\\SportNotifierApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\imsor\\.nuget\\packages\\htmlagilitypack\\1.11.71\\htmlagilitypack.1.11.71.nupkg.sha512",
     "C:\\Users\\imsor\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0\\microsoft.extensions.configuration.9.0.0.nupkg.sha512",

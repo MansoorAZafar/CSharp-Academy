@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\SportNotifierApplication\\SportNotifierApplication.csproj": {}
+    "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\SportNotifierApplication\\SportNotifierApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\EmailSenderLib\\EmailSenderLib.csproj": {
+    "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\EmailSenderLib\\EmailSenderLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\EmailSenderLib\\EmailSenderLib.csproj",
+        "projectUniqueName": "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\EmailSenderLib\\EmailSenderLib.csproj",
         "projectName": "EmailSenderLib",
-        "projectPath": "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\EmailSenderLib\\EmailSenderLib.csproj",
+        "projectPath": "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\EmailSenderLib\\EmailSenderLib.csproj",
         "packagesPath": "C:\\Users\\imsor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\EmailSenderLib\\obj\\",
+        "outputPath": "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\EmailSenderLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\imsor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\SportNotifierApplication\\SportNotifierApplication.csproj": {
+    "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\SportNotifierApplication\\SportNotifierApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\SportNotifierApplication\\SportNotifierApplication.csproj",
+        "projectUniqueName": "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\SportNotifierApplication\\SportNotifierApplication.csproj",
         "projectName": "SportNotifierApplication",
-        "projectPath": "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\SportNotifierApplication\\SportNotifierApplication.csproj",
+        "projectPath": "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\SportNotifierApplication\\SportNotifierApplication.csproj",
         "packagesPath": "C:\\Users\\imsor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\SportNotifierApplication\\obj\\",
+        "outputPath": "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\SportNotifierApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\imsor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,11 +90,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\EmailSenderLib\\EmailSenderLib.csproj": {
-                "projectPath": "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\EmailSenderLib\\EmailSenderLib.csproj"
+              "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\EmailSenderLib\\EmailSenderLib.csproj": {
+                "projectPath": "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\EmailSenderLib\\EmailSenderLib.csproj"
               },
-              "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\WebScraperLib\\WebScraperLib.csproj": {
-                "projectPath": "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\WebScraperLib\\WebScraperLib.csproj"
+              "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\WebScraperLib\\WebScraperLib.csproj": {
+                "projectPath": "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\WebScraperLib\\WebScraperLib.csproj"
               }
             }
           }
@@ -143,14 +143,14 @@
         }
       }
     },
-    "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\WebScraperLib\\WebScraperLib.csproj": {
+    "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\WebScraperLib\\WebScraperLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\WebScraperLib\\WebScraperLib.csproj",
+        "projectUniqueName": "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\WebScraperLib\\WebScraperLib.csproj",
         "projectName": "WebScraperLib",
-        "projectPath": "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\WebScraperLib\\WebScraperLib.csproj",
+        "projectPath": "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\WebScraperLib\\WebScraperLib.csproj",
         "packagesPath": "C:\\Users\\imsor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\WebScraperLib\\obj\\",
+        "outputPath": "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\WebScraperLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\imsor\\AppData\\Roaming\\NuGet\\NuGet.Config",

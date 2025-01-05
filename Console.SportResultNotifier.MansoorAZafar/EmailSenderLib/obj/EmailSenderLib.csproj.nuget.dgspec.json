@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\EmailSenderLib\\EmailSenderLib.csproj": {}
+    "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\EmailSenderLib\\EmailSenderLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\EmailSenderLib\\EmailSenderLib.csproj": {
+    "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\EmailSenderLib\\EmailSenderLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\EmailSenderLib\\EmailSenderLib.csproj",
+        "projectUniqueName": "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\EmailSenderLib\\EmailSenderLib.csproj",
         "projectName": "EmailSenderLib",
-        "projectPath": "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\EmailSenderLib\\EmailSenderLib.csproj",
+        "projectPath": "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\EmailSenderLib\\EmailSenderLib.csproj",
         "packagesPath": "C:\\Users\\imsor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\EmailSenderLib\\obj\\",
+        "outputPath": "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\EmailSenderLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\imsor\\AppData\\Roaming\\NuGet\\NuGet.Config",

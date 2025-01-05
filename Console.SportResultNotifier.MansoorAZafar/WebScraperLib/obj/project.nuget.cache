@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B/RLU1aXwR8=",
+  "dgSpecHash": "2Xegb/eF+oo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\imsor\\Documents\\C#\\SportResultNotifier.MansoorAZafar\\WebScraperLib\\WebScraperLib.csproj",
+  "projectFilePath": "C:\\Users\\imsor\\Desktop\\CodeReviews.Console.SportsResults\\SportResultNotifier.MansoorAZafar\\WebScraperLib\\WebScraperLib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\imsor\\.nuget\\packages\\htmlagilitypack\\1.11.71\\htmlagilitypack.1.11.71.nupkg.sha512"
   ],

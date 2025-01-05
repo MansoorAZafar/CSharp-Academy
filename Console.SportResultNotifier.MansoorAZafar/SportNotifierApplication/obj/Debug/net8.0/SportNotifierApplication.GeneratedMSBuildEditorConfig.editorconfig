@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SportNotifierApplication
-build_property.ProjectDir = C:\Users\imsor\Documents\C#\SportResultNotifier.MansoorAZafar\SportNotifierApplication\
+build_property.ProjectDir = C:\Users\imsor\Desktop\CodeReviews.Console.SportsResults\SportResultNotifier.MansoorAZafar\SportNotifierApplication\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
