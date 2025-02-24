@@ -19,4 +19,4 @@ dotnet run --project SportResultNotifier/SportNotifierApplication.csproj
 - Done with PaperCut
 - Sample Output:
 
-![{CFF6DBB3-9991-4B33-B77F-5939563CD891}](https://github.com/user-attachments/assets/2a62c5a9-b35a-4488-9c47-711780075a48)
+![Screenshot 2024-12-29 105624](https://github.com/user-attachments/assets/89c5f514-80cb-4e5e-9ade-61e9b30ef0e1)
